@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=uwinezagloria" alt="uwinezagloria" /></a> </p>
 
-- 🌱 I’m currently learning **express js**
+- 🌱 I’m currently learning **WEB DESIGN**
 
-- 💬 Ask me about **backend development with node js**
+- 💬 Ask me about **backend development with Node.js and API documentations **
 
 - 📫 How to reach me **gloria7wineza@gmail.com**
 
