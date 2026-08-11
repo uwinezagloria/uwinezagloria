@@ -1,4 +1,5 @@
 # Hi, I'm Gloria Uwineza
+
 <h3 align="center">Full-Stack Developer</h3>
 <p align="center">
   I build modern web applications, REST APIs, and scalable backend systems.
@@ -6,6 +7,7 @@
   I'm passionate about learning new technologies and turning ideas into real-world solutions.
 </p>
 ## About Me
+
 * I'm a **Full-Stack Developer** passionate about building modern web applications and APIs.
 * I work across both **frontend and backend technologies**.
 * I enjoy building scalable, maintainable, and user-friendly applications.
@@ -13,6 +15,7 @@
 * I'm interested in building real-world solutions and collaborating on meaningful software projects.
 
 ## Connect with Me
+
 <p align="left">
   <a href="https://www.linkedin.com/in/uwineza-gloria-7098272a5/" target="_blank">
     <img
@@ -25,6 +28,7 @@
 </p>
 
 ## Languages and Tools
+
 <p align="left">
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
@@ -84,6 +88,7 @@
 </p>
 
 ## Tools & Technologies
+
 * **Frontend:** HTML, CSS, JavaScript, TypeScript, React, Tailwind CSS
 * **Backend:** Node.js, Express.js, NestJS, Django, Java
 * **Databases:** MongoDB, PostgreSQL, MySQL
@@ -91,6 +96,7 @@
 * **Development:** REST APIs, Backend Systems, Web Applications
 
 ## GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=uwinezagloria" alt="Gloria's GitHub Streak" />
 </p>
