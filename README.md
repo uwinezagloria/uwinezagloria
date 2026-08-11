@@ -6,7 +6,6 @@
   I'm passionate about learning new technologies and turning ideas into real-world solutions.
 </p>
 ## About Me
-
 * I'm a **Full-Stack Developer** passionate about building modern web applications and APIs.
 * I work across both **frontend and backend technologies**.
 * I enjoy building scalable, maintainable, and user-friendly applications.
