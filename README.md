@@ -93,7 +93,6 @@
 * **Development:** REST APIs, Backend Systems, Web Applications
 
 ## GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=uwinezagloria&show_icons=true&locale=en" alt="Gloria's GitHub Stats" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=uwinezagloria&show_icons=true&locale=en&layout=compact" alt="Gloria's Top Languages" /> </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=uwinezagloria" alt="Gloria's GitHub Streak" />
 </p>
