@@ -1,5 +1,4 @@
 # Hi, I'm Gloria Uwineza
-<h1 align="center">Hi, I'm Gloria Uwineza</h1>
 <h3 align="center">Full-Stack Developer</h3>
 <p align="center">
   I build modern web applications, REST APIs, and scalable backend systems.
