@@ -1,22 +1,31 @@
-# Hi there 
+# Hi there
 
-<h1 align="center">Hi , I'm Gloria Uwineza</h1>
+<h1 align="center">Hi, I'm Gloria Uwineza</h1>
 <h3 align="center">A passionate Full-Stack Developer</h3>
 
+<p align="left">
+  I'm a <strong>Full-Stack Developer</strong> passionate about building web applications and APIs.
+</p>
 
-
-*  I'm a **Full-Stack Developer** passionate about building web applications and APIs.
-*  I work with **React.js, Node.js, NestJS, Express.js, Django, and Java**.
-*  I have experience working with **MongoDB, PostgreSQL, and SQL**.
-*  I enjoy designing **REST APIs, backend architectures, databases, and full-stack applications**.
-*  Ask me about **Full-Stack Development, Node.js, NestJS, Express.js, React.js, APIs, and databases**.
-*  How to reach me: **[gloria7wineza@gmail.com](mailto:gloria7wineza@gmail.com)**
+<ul>
+  <li>I work with <strong>React.js, JavaScript, TypeScript, Node.js, NestJS, Express.js, Django, and Java</strong>.</li>
+  <li>I have experience working with <strong>MongoDB, PostgreSQL, MySQL, and SQL</strong>.</li>
+  <li>I enjoy designing <strong>REST APIs, backend architectures, databases, and full-stack applications</strong>.</li>
+  <li>Ask me about <strong>Full-Stack Development, Node.js, NestJS, Express.js, React.js, TypeScript, APIs, and databases</strong>.</li>
+  <li>How to reach me: <strong><a href="mailto:gloria7wineza@gmail.com">gloria7wineza@gmail.com</a></strong></li>
+</ul>
 
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/uwineza-gloria-7098272a5/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Gloria Uwineza LinkedIn" height="30" width="40" />
+    <img
+      align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="Gloria Uwineza LinkedIn"
+      height="30"
+      width="40"
+    />
   </a>
 </p>
 
@@ -40,6 +49,10 @@
 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   </a>
 
   <!-- Backend -->
@@ -86,6 +99,29 @@
 
 </p>
 
+<h3 align="left">Most Used Languages:</h3>
 
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=uwinezagloria&layout=compact&theme=tokyonight"
+    alt="Gloria Uwineza's Most Used Languages"
+  />
+</p>
 
+<h3 align="left">GitHub Stats:</h3>
 
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=uwinezagloria&show_icons=true&locale=en&theme=tokyonight"
+    alt="Gloria Uwineza's GitHub Stats"
+  />
+</p>
+
+<h3 align="left">GitHub Streak:</h3>
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=uwinezagloria&theme=tokyonight"
+    alt="Gloria Uwineza's GitHub Streak"
+  />
+</p>
