@@ -3,9 +3,7 @@
 <h1 align="center">Hi , I'm Gloria Uwineza</h1>
 <h3 align="center">A passionate Full-Stack Developer</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=uwinezagloria&label=Profile%20views&color=0e75b6&style=flat" alt="uwinezagloria" />
-</p>
+
 
 *  I'm a **Full-Stack Developer** passionate about building web applications and APIs.
 *  I work with **React.js, Node.js, NestJS, Express.js, Django, and Java**.
@@ -88,11 +86,6 @@
 
 </p>
 
-<h3 align="left">GitHub Stats:</h3>
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=uwinezagloria&show_icons=true&locale=en&layout=compact" alt="uwinezagloria" />
-</p>
 
 
 
